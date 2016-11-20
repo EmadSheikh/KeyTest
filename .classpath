@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/HP Pavilion 13/Desktop/JARS/fluent-hc-4.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/HP Pavilion 13/Desktop/JARS/httpclient-4.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/HP Pavilion 13/Desktop/JARS/httpclient-cache-4.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/HP Pavilion 13/Desktop/JARS/httpclient-win-4.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/HP Pavilion 13/Desktop/JARS/httpcore-4.4.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/HP Pavilion 13/Desktop/JARS/httpmime-4.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/HP Pavilion 13/Desktop/JARS/json-20090211.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/HP Pavilion 13/Desktop/JARS/json-simple-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/HP Pavilion 13/Desktop/JARS/jars/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/HP Pavilion 13/Desktop/JARS/jars/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/HP Pavilion 13/Desktop/JARS/jars/java-json.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/HP Pavilion 13/Desktop/JARS/jars/json-lib.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
